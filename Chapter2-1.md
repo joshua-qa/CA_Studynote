@@ -19,7 +19,7 @@ CPU는 기억장치에 저장되어 있는 프로그램 코드인 명령어들�
 
 ### CPU의 기본 구조
 
-![chapter2_1](/Users/jgchoi.qa/Documents/CA_Studynote/images/chapter2_1.png)
+![chapter2_1](./images/chapter2_1.png)
 
 * 산술논리연산장치 (Arithmetic and Logical Unit)
   * ALU라고 부른다.
@@ -82,7 +82,7 @@ CPU는 기억장치에 저장되어 있는 명령어들을 인출하여 실행�
 
 주요 레지스터들과 데이터 통로가 표시된 CPU 내부 구조는 아래 그림을 참고.
 
-![chapter2_2](/Users/jgchoi.qa/Documents/CA_Studynote/images/chapter2_2.jpg)
+![chapter2_2](./images/chapter2_2.jpg)
 
 #### 1) 인출 사이클
 
