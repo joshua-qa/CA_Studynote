@@ -1,2 +1,4 @@
 # CA_Studynote
-computer architecture study note
+매주 금요일마다 진행하는 컴퓨터 구조론 스터디에 대한 정리 노트입니다.
+
+사용 교재 : 컴퓨터 구조론 4판, 김종현 저 (생능출판사)
