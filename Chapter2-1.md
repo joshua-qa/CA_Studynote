@@ -143,4 +143,5 @@ t0 : MAR <- IR(addr)
 t1 : MBR <- M[MAR]
 t2 : IR(addr) <- MBR
 ```
-
+## 명령어 파이프라이닝
+작성중
